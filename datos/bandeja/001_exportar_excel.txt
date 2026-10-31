@@ -1,0 +1,12 @@
+De: Pablo Ruiz <pablo.ruiz@umbrella.com>
+Asunto: La exportación a Excel no termina
+
+Hola,
+
+Desde ayer, cuando exporto a Excel el listado completo de clientes, la barra de progreso se queda al 90 % y la descarga nunca empieza. Con listados filtrados (unas pocas filas) funciona bien.
+
+El listado completo tiene unas 140.000 filas.
+
+Gracias,
+Pablo Ruiz
+Umbrella

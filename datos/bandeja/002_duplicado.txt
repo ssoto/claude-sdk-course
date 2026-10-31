@@ -1,0 +1,13 @@
+De: Laura Gómez <laura.gomez@initech.es>
+Asunto: Otra vez el calendario de Outlook
+
+Buenos días:
+
+Seguimos sin ver en Outlook las citas que creamos en la aplicación. En el registro de sincronización vuelve a salir "token expirado". Esto nos está obligando a duplicar todas las citas a mano.
+
+¿Hay alguna novedad?
+
+Un saludo,
+Laura Gómez
+Responsable de operaciones
+Initech S.L.

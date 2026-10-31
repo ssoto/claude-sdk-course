@@ -1,0 +1,26 @@
+[
+    {
+        "correo": "002_duplicado.txt",
+        "esperado": {
+            "accion": "existente"
+        },
+        "no_debe_llamar": [
+            "mcp__soporte__crear_incidencia"
+        ]
+    },
+    {
+        "correo": "003_urgente.txt",
+        "esperado": {
+            "prioridad": "alta"
+        }
+    },
+    {
+        "correo": "005_felicitacion.txt",
+        "esperado": {
+            "es_incidencia": false
+        },
+        "no_debe_llamar": [
+            "mcp__soporte__crear_incidencia"
+        ]
+    }
+]

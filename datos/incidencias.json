@@ -1,0 +1,137 @@
+[
+  {
+    "id": "INC-001",
+    "cliente": "ACME",
+    "asunto": "Error 500 al descargar facturas en PDF",
+    "descripcion": "Al pulsar 'Descargar PDF' en el módulo de facturación aparece un error 500. Afecta a todas las facturas emitidas desde el 1 de octubre.",
+    "estado": "abierta",
+    "prioridad": "alta",
+    "fecha": "2026-10-14"
+  },
+  {
+    "id": "INC-002",
+    "cliente": "ACME",
+    "asunto": "Logo descolocado en la cabecera del informe mensual",
+    "descripcion": "En el informe mensual exportado, el logo de la empresa aparece desplazado a la derecha y tapa parte del título.",
+    "estado": "abierta",
+    "prioridad": "baja",
+    "fecha": "2026-10-02"
+  },
+  {
+    "id": "INC-003",
+    "cliente": "ACME",
+    "asunto": "Traducción incompleta en la pantalla de ajustes",
+    "descripcion": "Varias etiquetas de la pantalla de ajustes siguen en inglés ('Save changes', 'Notifications') aunque el idioma de la cuenta es español.",
+    "estado": "abierta",
+    "prioridad": "baja",
+    "fecha": "2026-09-28"
+  },
+  {
+    "id": "INC-004",
+    "cliente": "ACME",
+    "asunto": "No llegan los correos de recuperación de contraseña",
+    "descripcion": "Los usuarios que solicitan restablecer la contraseña no reciben el correo. Resuelto tras corregir la configuración SPF del dominio.",
+    "estado": "cerrada",
+    "prioridad": "alta",
+    "fecha": "2026-09-10"
+  },
+  {
+    "id": "INC-005",
+    "cliente": "ACME",
+    "asunto": "Lentitud al abrir el panel de control",
+    "descripcion": "El panel de control tarda más de 20 segundos en cargar por las mañanas. Se sospecha de la consulta de métricas diarias.",
+    "estado": "abierta",
+    "prioridad": "media",
+    "fecha": "2026-10-09"
+  },
+  {
+    "id": "INC-006",
+    "cliente": "Globex",
+    "asunto": "Importación de clientes desde CSV ignora la última fila",
+    "descripcion": "Al importar un CSV de clientes, la última fila no se importa si el fichero no termina en salto de línea.",
+    "estado": "cerrada",
+    "prioridad": "media",
+    "fecha": "2026-08-21"
+  },
+  {
+    "id": "INC-007",
+    "cliente": "Globex",
+    "asunto": "Usuario bloqueado tras cambiar el correo de la cuenta",
+    "descripcion": "Después de cambiar la dirección de correo de su usuario, la usuaria no puede iniciar sesión con la nueva dirección.",
+    "estado": "abierta",
+    "prioridad": "media",
+    "fecha": "2026-10-11"
+  },
+  {
+    "id": "INC-008",
+    "cliente": "Initech",
+    "asunto": "La sincronización del calendario con Outlook falla",
+    "descripcion": "Las citas creadas en la aplicación no aparecen en Outlook. El registro de sincronización muestra 'token expirado' cada noche.",
+    "estado": "abierta",
+    "prioridad": "media",
+    "fecha": "2026-10-16"
+  },
+  {
+    "id": "INC-009",
+    "cliente": "Initech",
+    "asunto": "Cobro duplicado en la factura de septiembre",
+    "descripcion": "Se ha cargado dos veces la cuota mensual de septiembre en la tarjeta del cliente. Reembolso realizado.",
+    "estado": "cerrada",
+    "prioridad": "alta",
+    "fecha": "2026-09-30"
+  },
+  {
+    "id": "INC-010",
+    "cliente": "Umbrella",
+    "asunto": "Exportación a Excel corta los textos largos",
+    "descripcion": "En la exportación a Excel, las celdas de descripción se cortan a 255 caracteres.",
+    "estado": "abierta",
+    "prioridad": "baja",
+    "fecha": "2026-10-05"
+  },
+  {
+    "id": "INC-011",
+    "cliente": "Umbrella",
+    "asunto": "Solicitud de alta de 15 usuarios nuevos",
+    "descripcion": "El cliente pide dar de alta 15 usuarios para el nuevo equipo comercial. Gestionado por el equipo de cuentas.",
+    "estado": "cerrada",
+    "prioridad": "baja",
+    "fecha": "2026-09-15"
+  },
+  {
+    "id": "INC-012",
+    "cliente": "Hooli",
+    "asunto": "La aplicación móvil se cierra al adjuntar fotos",
+    "descripcion": "En Android 15, la app se cierra al adjuntar una foto desde la galería a un ticket.",
+    "estado": "abierta",
+    "prioridad": "media",
+    "fecha": "2026-10-13"
+  },
+  {
+    "id": "INC-013",
+    "cliente": "Hooli",
+    "asunto": "Webhook de pedidos devuelve 401",
+    "descripcion": "El webhook que notifica pedidos nuevos a su ERP responde 401 desde la rotación de claves de API.",
+    "estado": "abierta",
+    "prioridad": "alta",
+    "fecha": "2026-10-17"
+  },
+  {
+    "id": "INC-014",
+    "cliente": "Stark",
+    "asunto": "Duda sobre el cambio de plan a Empresa",
+    "descripcion": "El cliente pregunta si al cambiar al plan Empresa se prorratea la cuota del mes en curso. Respondido con el artículo de facturación.",
+    "estado": "cerrada",
+    "prioridad": "baja",
+    "fecha": "2026-09-22"
+  },
+  {
+    "id": "INC-015",
+    "cliente": "Stark",
+    "asunto": "El filtro por fecha del listado de tickets no funciona",
+    "descripcion": "Al filtrar el listado de tickets por rango de fechas se muestran también tickets fuera del rango.",
+    "estado": "abierta",
+    "prioridad": "media",
+    "fecha": "2026-10-19"
+  }
+]
